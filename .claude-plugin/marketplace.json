@@ -1,0 +1,21 @@
+{
+  "name": "vanta",
+  "owner": {
+    "name": "Marco Dolce"
+  },
+  "metadata": {
+    "description": "Marketplace del plugin V.A.N.T.A. · V.A.N.T.A. plugin marketplace (Italiano / English)"
+  },
+  "plugins": [
+    {
+      "name": "vanta",
+      "source": "./plugins/vanta",
+      "description": "Versione italiana. Consulente analitico per decisioni: Punto Nave, stress test, wargame Rosso/Blu, registro decisioni con revisione."
+    },
+    {
+      "name": "vanta-en",
+      "source": "./plugins/vanta-en",
+      "description": "English version. Analytical decision advisor: Position Fix, stress test, Red/Blue wargame, decision log with review."
+    }
+  ]
+}

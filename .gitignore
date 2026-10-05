@@ -1,0 +1,7 @@
+# Risultati delle eval (rigenerabili) · Eval results (regenerable)
+**/evals/results/
+
+# Stato personale creato dal plugin durante i test · Personal state created during tests
+.vanta/
+
+.DS_Store

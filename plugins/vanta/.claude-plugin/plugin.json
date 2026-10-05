@@ -1,0 +1,20 @@
+{
+  "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
+  "name": "vanta",
+  "displayName": "V.A.N.T.A.",
+  "version": "0.1.0",
+  "description": "Consulente analitico per decisioni: metodo critico basato su evidenze, Punto Nave persistente, stress test (pre-mortem), wargame Rosso/Blu, registro decisioni con revisione e calibrazione.",
+  "author": {
+    "name": "Marco Dolce"
+  },
+  "license": "MIT",
+  "keywords": [
+    "decision-making",
+    "pre-mortem",
+    "wargame",
+    "red-team",
+    "critical-thinking",
+    "decision-journal",
+    "italiano"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
+  "name": "vanta-en",
+  "displayName": "V.A.N.T.A. (English)",
+  "version": "0.1.0",
+  "description": "Analytical decision advisor: evidence-based critical method, persistent Position Fix, stress test (pre-mortem), Red/Blue wargame, decision log with review and calibration.",
+  "author": {
+    "name": "Marco Dolce"
+  },
+  "license": "MIT",
+  "keywords": [
+    "decision-making",
+    "pre-mortem",
+    "wargame",
+    "red-team",
+    "critical-thinking",
+    "decision-journal",
+    "english"
+  ]
+}
